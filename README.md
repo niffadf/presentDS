@@ -1,3 +1,2 @@
 # presentDS
-test
-Wrote in computer
+How to present your Data Science Project in R using `rmarkdown`
